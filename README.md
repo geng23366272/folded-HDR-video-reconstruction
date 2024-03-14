@@ -5,7 +5,7 @@ By Tianyu Geng, Feng Ji, [Wee Peng Tay](https://github.com/wptay)
 ![](https://github.com/geng23366272/folded-HDR-video-reconstruction/blob/main/Structure_v2.png)
 
 
-## Prerequisites
+## Requirements
 
 * Linux Distributions (tested on Ubuntu 20.04).
 * NVIDIA GPU and CUDA cuDNN
