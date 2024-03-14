@@ -18,7 +18,7 @@ By Tianyu Geng, Feng Ji, [Wee Peng Tay](https://github.com/wptay)
 
 ## Inference
 
-* To unwrap RGB modulo images (in `.npy` format and in `(H, W, 3)` shape):
+* for `.npy` format in `(H, W, 3)` shape:
 ```
 python execute/infer_LearnMaskNet.py -r checkpoint/checkpoint-mask.pth --data_dir <path_to_modulo_images> --result_dir <path_to_result> --resume_edge_module checkpoint/checkpoint-edge.pth default
 ```
@@ -31,7 +31,7 @@ python execute/infer_LearnMaskNet.py -r checkpoint/checkpoint-mask.pth --data_di
 
 ## Training 
 
-1. Make dataset from original data (HDR images in `.npy` format):
+1. Make dataset from original data (HDR data in `.npy` format):
     * make dataset:
     ```
     python scripts/make_dataset.py --data_dir <path_to_original_data> --train_dir <path_to_training_dataset> --test_dir <path_to_test_dataset> --training_sample <number_of_training_samples>
