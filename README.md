@@ -39,7 +39,7 @@ python execute/infer_LearnMaskNet.py -r checkpoint/checkpoint-mask.pth --data_di
     python execute/train.py -c <path_to_config_file>
 ```
 
-## Pre-trained models and test examples
+## More examples
 
 https://entuedu-my.sharepoint.com/:f:/r/personal/tianyu_geng_staff_main_ntu_edu_sg/Documents/ReleaseData?csf=1&web=1&e=TWrEs6
 
