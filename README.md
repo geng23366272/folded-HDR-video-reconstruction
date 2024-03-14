@@ -2,7 +2,7 @@
 
 By Tianyu Geng, Feng Ji, [Wee Peng Tay](https://github.com/wptay)
 
-![](https://github.com/geng23366272/folded-HDR-video-reconstruction/blob/master/Figures/Structure.png)
+![](https://github.com/geng23366272/folded-HDR-video-reconstruction/blob/main/Structure_v2.png)
 
 
 ## Prerequisites
