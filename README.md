@@ -41,5 +41,5 @@ python execute/infer_LearnMaskNet.py -r checkpoint/checkpoint-mask.pth --data_di
 
 ## More results
 
-[https://entuedu-my.sharepoint.com/:f:/r/personal/tianyu_geng_staff_main_ntu_edu_sg/Documents/ReleaseData?csf=1&web=1&e=TWrEs6](https://drive.google.com/drive/folders/1Dn4G8Fqm6DMJEdju3p5F2J8XBhCP7d5w?usp=sharing)https://drive.google.com/drive/folders/1Dn4G8Fqm6DMJEdju3p5F2J8XBhCP7d5w?usp=sharing
+https://drive.google.com/drive/folders/1Dn4G8Fqm6DMJEdju3p5F2J8XBhCP7d5w?usp=sharing
 
