@@ -40,6 +40,10 @@ python execute/infer_LearnMaskNet.py -r checkpoint/checkpoint-mask.pth --data_di
 ```
 
 ## More results
+![](https://github.com/geng23366272/folded-HDR-video-reconstruction/blob/main/highlight_results/1.png)
+![](https://github.com/geng23366272/folded-HDR-video-reconstruction/blob/main/highlight_results/2.png)
+![](https://github.com/geng23366272/folded-HDR-video-reconstruction/blob/main/highlight_results/3.png)
+![](https://github.com/geng23366272/folded-HDR-video-reconstruction/blob/main/highlight_results/4.png)
 
-https://drive.google.com/drive/folders/1Dn4G8Fqm6DMJEdju3p5F2J8XBhCP7d5w?usp=sharing
+see  https://drive.google.com/drive/folders/1Dn4G8Fqm6DMJEdju3p5F2J8XBhCP7d5w?usp=sharing
 
